@@ -1,4 +1,4 @@
-import numpy asd np
+import numpy as np
 import pandas as pd
 
 print "hello"
